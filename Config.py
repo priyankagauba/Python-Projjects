@@ -1,0 +1,9 @@
+INFLUX_DB_IP = '10.12.97.178'
+INFLUX_DB_PORT = 8086
+INFLUX_DB = 'demoDb'
+SOURCE_MEASUREMENT = 'EM_main_new'
+TARGET_MEASUREMENT = 'EM_live'
+ENERGY24 = 'Energy24'
+MODEL = 'Model'
+TRAINING = 'Training_Data'
+NN = 'NN'
